@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250"/>
 
 - 🌱 I’m **quick learner** experimenting with **new technologies** 
-- ✍️ Writing refernce notes at [blog](https://www.notion.so/Reference-Notes-abe79403119e47bc9e320608ea4531fd)
+- ✍️ Writing refernce notes & blogs at [blog](https://square-seatbelt-18e.notion.site/References-abe79403119e47bc9e320608ea4531fd)
 - 🛠 Getting myself into building small useful projects **solving problems.** 
 - 👩🏻‍💻 Studying as a software engineer specialising in **AI & ML** 
 - 💬 Ask me about **Technology(consumer), Psychology(UX), Neuroscience(AI)**
