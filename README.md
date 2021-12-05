@@ -23,7 +23,7 @@
 </p>
 
 ## Welcome to my GitHub 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pushpeshkamal&show_icons=true&theme=tokyonight" alt="Pushpesh Kamal :: Profile Stats" /></p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pushpeshkamal&show_icons=true&theme=tokyonight" alt="Pushpesh Kamal :: Profile Stats" /></p>-->
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpeshkamal&theme=tokyonight&layout=compact" alt="Pushpesh Kamal :: Top language" /></p>
  <p align="center"><img src="https://profile-counter.glitch.me/{pushpeshkamal}/count.svg" alt="Pushpesh Kamal :: Visitor's Count" /></p>
  
